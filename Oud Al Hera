@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Oud Al Hera Perfumes | UAE</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">ع</div>
+  <h2>OUD AL HERA</h2>
+  <p>PERFUMES · UAE</p>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#collection">Collections</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero" id="home">
+  <p>THE ART OF FRAGRANCE</p>
+  <h1>Every Bottle<br>Holds a <em>Memory.</em></h1>
+  <p>Discover exceptional fragrances that express your identity and create unforgettable memories.</p>
+  <a class="btn" href="#collection">EXPLORE COLLECTION</a>
+</section>
+
+<section id="about">
+  <h2>Welcome to <em>Oud Al Hera</em></h2>
+  <p>More than a fragrance. A feeling that remains.</p>
+  <p>Oud Al Hera Perfumes brings you inspired fragrances, signature scents and personalised perfume experiences in the UAE.</p>
+</section>
+
+<section id="collection">
+  <h2>Our Collections</h2>
+  <div class="cards">
+    <div class="card">
+      <h3>Inspired Fragrances</h3>
+      <p>Discover your favourite fragrance styles.</p>
+    </div>
+    <div class="card">
+      <h3>Signature Perfumes</h3>
+      <p>Unique scents with unforgettable character.</p>
+    </div>
+    <div class="card">
+      <h3>Made For You</h3>
+      <p>Personalised perfume experiences.</p>
+    </div>
+  </div>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <p>Customised Perfumes · Wholesale · Bulk Orders · Private Label</p>
+</section>
+
+<section id="contact">
+  <h2>Find Your Signature Scent</h2>
+  <p>Every bottle holds a memory.</p>
+  <a class="btn" href="https://wa.me/9715XXXXXXXX">CONTACT US ON WHATSAPP</a>
+  <p><a href="https://www.instagram.com/oudalheraperfumes/">Instagram @oudalheraperfumes</a></p>
+</section>
+
+<footer>
+  <h3>OUD AL HERA PERFUMES</h3>
+  <p>Every Bottle Holds a Memory.</p>
+  <p>© 2026 Oud Al Hera Perfumes. UAE.</p>
+</footer>
+
+</body>
+</html>
